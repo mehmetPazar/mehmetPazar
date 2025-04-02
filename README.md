@@ -1,41 +1,42 @@
-- 👋 Hi, I’m @mehmetPazar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Mehmet Pazar! 👋
 
-<!---
-mehmetPazar/mehmetPazar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=mehmetPazar&color=blue)
 
-# My Project
+## About Me
 
-[![GitHub Stars](https://img.shields.io/github/stars/myusername/myproject.svg)](https://github.com/myusername/myproject/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/myusername/myproject.svg)](https://github.com/myusername/myproject/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/myusername/myproject.svg)](https://github.com/myusername/myproject/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/myusername/myproject.svg)](https://github.com/myusername/myproject/pulls)
+🎓 I graduated from Eskisehir Osmangazi University with a degree in Computer Engineering.  
+💻 I have extensive experience working with mobile, desktop, and web-based systems.  
+🌍 Based in Bursa, Turkey.  
+🔗 [Personal Website](http://www.mehmetpazar.com) | [LinkedIn](https://www.linkedin.com/in/mehmetPazar)
 
-This is a description of my project.
+## 🚀 Projects
 
-## Usage
+Here are some of my notable projects:
 
-To use my project, follow these steps:
+### KONUMUM
 
-1. Clone the repository: `git clone https://github.com/myusername/myproject.git`
-2. Install dependencies: `npm install`
-3. Run the app: `npm start`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
-## Contributing
+An Android application developed for a Mobile Programming course, enabling users to determine locations and send messages. It utilizes Firebase for real-time database, authentication, and storage, along with Google Maps API for location display.  
+[GitHub Repository](https://github.com/mehmetPazar/KONUMUM)
 
-Contributions are welcome! Please follow these steps:
+### Graduation Project
 
-1. Fork the repository: https://github.com/myusername/myproject
-2. Create a new branch: `git checkout -b my-new-branch`
-3. Make changes and commit: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-branch`
-5. Submit a pull request
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## License
+A distributed IoT project for face recognition using Raspberry Pi. The system captures images via a camera module, processes them with a pre-trained model, and sends recognized faces to a database, accessible through a mobile application.  
+[GitHub Repository](https://github.com/mehmetPazar/GraduationProject)
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+## 📈 GitHub Stats
+
+![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetPazar&show_icons=true&theme=radical)
+
+## 🏆 Achievements
+
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-%23121011.svg?style=flat-square&logo=github&logoColor=white)  
+![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+
+## 📫 Get in Touch
+
+- Personal Website: [mehmetpazar.com](http://www.mehmetpazar.com)
+- LinkedIn: [linkedin.com/in/mehmetPazar](https://www.linkedin.com/in/mehmetPazar)
