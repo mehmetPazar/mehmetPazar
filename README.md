@@ -1,42 +1,47 @@
 # Hi there, I'm Mehmet Pazar! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=mehmetPazar&color=blue)
+![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
-## About Me
+I am a Computer Engineering graduate from Eskişehir Osmangazi University with a strong passion for developing mobile, desktop, and web-based systems. Based in Bursa, Turkey, I thrive on creating innovative solutions and collaborating with others in the tech community.
 
-🎓 I graduated from Eskisehir Osmangazi University with a degree in Computer Engineering.  
-💻 I have extensive experience working with mobile, desktop, and web-based systems.  
-🌍 Based in Bursa, Turkey.  
-🔗 [Personal Website](http://www.mehmetpazar.com) | [LinkedIn](https://www.linkedin.com/in/mehmetPazar)
-
-## 🚀 Projects
-
-Here are some of my notable projects:
-
-### KONUMUM
+## 🔧 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-An Android application developed for a Mobile Programming course, enabling users to determine locations and send messages. It utilizes Firebase for real-time database, authentication, and storage, along with Google Maps API for location display.  
-[GitHub Repository](https://github.com/mehmetPazar/KONUMUM)
-
-### Graduation Project
-
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-A distributed IoT project for face recognition using Raspberry Pi. The system captures images via a camera module, processes them with a pre-trained model, and sends recognized faces to a database, accessible through a mobile application.  
-[GitHub Repository](https://github.com/mehmetPazar/GraduationProject)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dot-net&logoColor=white)
 
 ## 📈 GitHub Stats
 
 ![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetPazar&show_icons=true&theme=radical)
 
-## 🏆 Achievements
+## 🚀 Featured Projects
 
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-%23121011.svg?style=flat-square&logo=github&logoColor=white)  
-![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+Here are some of the notable projects I've worked on:
 
-## 📫 Get in Touch
+### [Akwel Automotive Tracking System](https://github.com/mehmetPazar/akwel-automotive-tracking-system)
 
-- Personal Website: [mehmetpazar.com](http://www.mehmetpazar.com)
-- LinkedIn: [linkedin.com/in/mehmetPazar](https://www.linkedin.com/in/mehmetPazar)
+A comprehensive tracking system developed for Akwel Automotive, utilizing Vue.js for the frontend.
+
+![Akwel Automotive Tracking System](https://via.placeholder.com/600x200?text=Akwel+Automotive+Tracking+System)
+
+### [Graduation Project: Distributed IoT Face Recognition](https://github.com/mehmetPazar/GraduationProject)
+
+An IoT project implementing face recognition using Raspberry Pi and Python.
+
+![Graduation Project](https://via.placeholder.com/600x200?text=Distributed+IoT+Face+Recognition)
+
+### [The Gazette News Website](https://github.com/mehmetPazar/TheGazette_News_Website)
+
+A news website developed using ASP.NET with a free template.
+
+![The Gazette News Website](https://via.placeholder.com/600x200?text=The+Gazette+News+Website)
+
+## 📫 Connect with Me
+
+- 🌐 Website: [www.mehmetpazar.com](http://www.mehmetpazar.com)
+- 💼 LinkedIn: [linkedin.com/in/mehmetPazar](https://www.linkedin.com/in/mehmetPazar)
+
+Feel free to reach out for collaborations or just to say hi! Let's build something amazing together. 🚀
