@@ -10,15 +10,18 @@
 </div>
 <hr>
 <h3>📌 About Me</h3>
-```javascriptCopyconst mehmet = {
+
+```const mehmet = {
   languages: ["JavaScript", "TypeScript", "Python", "Java"],
   frameworks: ["React", "Node.js", "Express", "Next.js"],
   databases: ["MongoDB", "PostgreSQL", "Redis"],
   devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
   currentFocus: "Building scalable web applications with modern tech stacks",
   funFact: "I debug code in my dreams and wake up with solutions!"
-};```
-<h3>📌 Pinned Projects</h3>
+};
+```
+
+<h3>📌 Featured Projects</h3>
 <div align="center">
   <table>
     <tr>
