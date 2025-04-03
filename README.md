@@ -13,10 +13,10 @@
 
 ```
 const mehmet = {
-  languages: ["JavaScript", "TypeScript", "Python", "Java"],
-  frameworks: ["React", "Node.js", "Express", "Next.js"],
+  languages: ["C#", "JavaScript", "Python", "Java"],
+  frameworks: [".Net", "Vue", "React"],
   databases: ["MongoDB", "PostgreSQL", "Redis"],
-  devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+  devOps: ["Docker", "Kubernetes", "CI/CD"],
   currentFocus: "Building scalable web applications with modern tech stacks",
   funFact: "I debug code in my dreams and wake up with solutions!"
 };
@@ -34,9 +34,6 @@ const mehmet = {
           <a href="https://github.com/mehmetPazar/akwel-automotive-tracking-system">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo">
           </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live">
-          </a>
         </p>
       </td>
       <td width="50%" align="center">
@@ -46,9 +43,6 @@ const mehmet = {
         <p>
           <a href="https://github.com/mehmetPazar/GraduationProject">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo">
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live">
           </a>
         </p>
       </td>
@@ -62,9 +56,6 @@ const mehmet = {
           <a href="https://github.com/mehmetPazar/TheGazette_News_Website">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo">
           </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live">
-          </a>
         </p>
       </td>
       <td width="50%" align="center">
@@ -74,9 +65,6 @@ const mehmet = {
         <p>
           <a href="https://github.com/mehmetPazar/KONUMUM">
             <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo">
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live">
           </a>
         </p>
       </td>
@@ -118,7 +106,7 @@ const mehmet = {
 <hr>
 <h3>📫 Connect With Me</h3>
 <div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mehmet.pazr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/mehmetpazar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/mehmetpazar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </div>
