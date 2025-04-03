@@ -11,7 +11,8 @@
 <hr>
 <h3>📌 About Me</h3>
 
-```const mehmet = {
+```
+const mehmet = {
   languages: ["JavaScript", "TypeScript", "Python", "Java"],
   frameworks: ["React", "Node.js", "Express", "Next.js"],
   databases: ["MongoDB", "PostgreSQL", "Redis"],
